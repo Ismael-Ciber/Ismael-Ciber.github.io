@@ -2,7 +2,7 @@
 title: Esto es una prueba.
 description: Porfavor no petes
 date: 2018-07-04
-scheduled: 2099-06-23
+scheduled: 2018-07-04
 layout: layouts/post.njk
 ---
 
